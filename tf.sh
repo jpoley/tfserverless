@@ -1,0 +1,2 @@
+cd tf
+terraform apply
